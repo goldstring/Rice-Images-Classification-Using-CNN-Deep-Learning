@@ -9,8 +9,5 @@
 </div>
 
 
-https://github.com/goldstring/Rice-Images-Classification-Using-CNN-Deep-Learning/b7d5cd8c29045cc104b976521d3c19e601f067f8/output.mp4
-
-
-https://github.com/user-attachments/assets/d5d13097-d942-4fb0-9ac8-4dec6429c456
+https://github.com/goldstring/Rice-Images-Classification-Using-CNN-Deep-Learning/blob/b7d5cd8c29045cc104b976521d3c19e601f067f8/output.mp4
 
